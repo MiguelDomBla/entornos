@@ -1,3 +1,6 @@
+/* Añado este texto para pruebas con GIT*/
+
+
 /* Autor: Miguel Domínguez
  * 1.- Crear un programa que solicite al usuario que introduzca dos números
 enteros entre 1 y 20 (debe comprobarlo y no continuar hasta que los números
